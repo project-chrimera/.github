@@ -1,5 +1,5 @@
 ## Hi there 👋
 ## Foss group collaboration software
-with dicord wordpress nextcloud and homeassistant 
+with discord wordpress nextcloud homeassistant and docuwiki
 
 come back soon.
